@@ -1,16 +1,60 @@
-What should a Junior Developer Resume contain?
+## 1. **Ilay Uvarkin**
 
-! Important: write your Resume in English if you can, if possible
+## 2. CONTACTS:
+### E-mail: uvarkin77@gmail.com
+### Telegram: @Uvarkin20
+### VK: https://vk.com/iuvarkin
 
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+
+----------
+----------
+
+## 3. SUMMARY
+Responsibility, rapid development, quick adaptation to changes, discipline - all this is about me :) 
+
+------------
+------------
+
+## 4. SKILLS
+>* HTML5
+>* CSS3
+>* JS (ES6)
+>* BOOTSTRAP
+>* PHP 7.4
+
+--------
+--------
+
+## 5. CODE EXAMPLES
+GitHub [NeRGaTBooT](https://github.com/NeRGaTBooT)
+
+-----------
+-----------
+
+## 6. EXPERIENCE
+I began to learn about programming at the 2018.
+https://blago-banya.ru/
+https://strongsales.ru/uvar_doc/uvar_pdf.html
+
+------------
+------------
+
+## 7. EDUCATION
+FreeCodeCamp "Responsive Web Design" : https://www.freecodecamp.org/fccf2f2c394-6a3a-4808-a43e-941335a48d2f
+
+
+------------
+------------
+
+## 8. ENGLISH LEVEL
+
+Pre-Intermediate (A2).
+
+
+
+
+
+
+
+
+
